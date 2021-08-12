@@ -1,5 +1,5 @@
 # Learning Algorithm 
-I implemented a Deep Q Network (DQN) algorithm for this project as described in this paper) by google researchers. This implementation uses a soft-update for the target network and a less complex neural network architecture without convolution layers. They are not needed, because no raw image pixel data are used for input to train the DQN. The Neural Network architecture for the DNNs of the DQN consists of two fully connected hidden layers with ReLU activation function. 
+I implemented a Deep Q Network (DQN) algorithm for this project as described in this [paper](https://www.nature.com/articles/nature14236) by google researchers. This implementation uses a soft-update for the target network and a less complex neural network architecture without convolution layers. They are not needed, because no raw image pixel data are used for input to train the DQN. The Neural Network architecture for the DNNs of the DQN consists of two fully connected hidden layers with ReLU activation function. 
 
 # Results
 
